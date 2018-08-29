@@ -71,3 +71,17 @@ Size: 141906
 MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
+
+Package: com.kidsauto.wTabwData
+Name: wTabwData
+Version: 0.1-50
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for KidsAuto!
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: kidsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/wTabwData.deb
+Size: 36090
+MD5sum: 17b9ca6b986e0891461ff946049f20d1
+Depends: mobilesubstrate
