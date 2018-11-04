@@ -99,3 +99,16 @@ Filename: ./Debs/SSLKillSwitch2_0.deb
 Size: 10096
 MD5sum: 1f116e87ece202e00618736a0ac8a9f3
 Depends: mobilesubstrate, preferenceloader
+
+Package: com.kidsauto72.remover103
+Name: Remover
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
+Maintainer: pwn20wnd (kidsauto.github.io/72)
+Author: pwn20wnd & coolstarorg
+Sponsor: GitHub.com <github.com>
+Section: Utility
+Filename: ./Debs/Remover.deb
+Size: 198240
+MD5sum: 7768b3dd2bf6ab4c3fb772592723f557
