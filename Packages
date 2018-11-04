@@ -85,3 +85,17 @@ Filename: ./Debs/wTabwData.deb
 Size: 36090
 MD5sum: 17b9ca6b986e0891461ff946049f20d1
 Depends: mobilesubstrate
+
+Package: com.kidsauto72.SSLKillSwitch2
+Name: SSL Kill Switch 2
+Version: 0.11-1
+Architecture: iphoneos-arm
+Description: ByPass SSL certificate - within iOS 9.2.1-10.3.3 KidsAuto!
+Maintainer: KidsAuto <kidsauto723@gmail.com>
+Author: kidsauto.github.io/72
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/SSLKillSwitch2_0.deb
+Size: 10096
+MD5sum: 1f116e87ece202e00618736a0ac8a9f3
+Depends: mobilesubstrate, preferenceloader
