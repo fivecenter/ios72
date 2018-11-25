@@ -69,7 +69,7 @@ Section: Tweaks
 Filename: ./Debs/xcon_42beta1.deb
 Size: 141906
 MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (<= 10.2.1)
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
 
 Package: com.kidsauto72.wTabwData72
